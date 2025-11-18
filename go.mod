@@ -16,9 +16,9 @@ require (
 	github.com/decred/dcrd/txscript/v3 v3.0.0
 	github.com/ethereum/go-ethereum v1.13.14
 	github.com/golang/glog v1.1.0
-	github.com/golang/protobuf v1.5.3
-	github.com/gorilla/websocket v1.4.2
-	github.com/juju/errors v0.0.0-20170703010042-c7d06af17c68
+	github.com/golang/protobuf v1.5.3 // indirect
+	github.com/gorilla/websocket v1.5.0
+	github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5
 	github.com/linxGnu/grocksdb v1.7.7
 	github.com/martinboehm/bchutil v0.0.0-20190104112650-6373f11b6efe
 	github.com/martinboehm/btcd v0.0.0-20221101112928-408689e15809
